@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to addressbooksystem");
+            address_book adb = new address_book();
         }
     }
 }
